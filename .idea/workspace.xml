@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e8dc137-f633-44b4-be17-d77cc67e767d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Academia Dublin - Tema 10 - Interfaz Grafica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejemplos/pEntradaDatos/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma1/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma1/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma2/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma2/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma3/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma3/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma4/MiPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teoria/Forma4/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Osjt7PbHsi3lD94cHQXQUAv7DH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MiPanel">
+    <configuration name="MiPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ejemplos.pEntradaDatos.MiPanel" />
+      <module name="Academia Dublin - Tema 10 - Interfaz Grafica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ejemplos.pEntradaDatos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teoria.Forma1.Principal" />
+      <module name="Academia Dublin - Tema 10 - Interfaz Grafica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teoria.Forma1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teoria.Forma2.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teoria.Forma2.Principal" />
+      <module name="Academia Dublin - Tema 10 - Interfaz Grafica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teoria.Forma2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teoria.Forma3.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teoria.Forma3.Principal" />
+      <module name="Academia Dublin - Tema 10 - Interfaz Grafica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teoria.Forma3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teoria.Forma4.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Teoria.Forma4.Principal" />
+      <module name="Academia Dublin - Tema 10 - Interfaz Grafica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Teoria.Forma4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiPanel" />
+        <item itemvalue="Application.Teoria.Forma4.Principal" />
+        <item itemvalue="Application.Teoria.Forma3.Principal" />
+        <item itemvalue="Application.Teoria.Forma2.Principal" />
+        <item itemvalue="Application.Principal" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8dc137-f633-44b4-be17-d77cc67e767d" name="Changes" comment="" />
+      <created>1682356396541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682356396541</updated>
+      <workItem from="1682356398127" duration="4505000" />
+      <workItem from="1682411904009" duration="150000" />
+      <workItem from="1682442490346" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
